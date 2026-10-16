@@ -44,6 +44,7 @@ git push
 
 ###Make requeirments file
 
+```
 python-dotenv
 
 
@@ -70,3 +71,4 @@ ipykernel
  #web app
  streamlit
 
+```
